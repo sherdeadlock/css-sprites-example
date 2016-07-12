@@ -1,0 +1,17 @@
+{
+  "name": "css-sprites-example",
+  "version": "1.0.0",
+  "description": "CSS Sprites Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js; python2 -m SimpleHTTPServer 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nil",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "lwip": "0.0.9",
+    "sprity": "^1.0.8"
+  }
+}
