@@ -1,5 +1,5 @@
 # CSS Sprites Example
-[筆記連結](http://blog.btrie.com/posts/css-sprites/)
+[筆記連結](http://blog.btrie.com//2016/07/12/css-sprites/)
 
 # Usage
 ```
